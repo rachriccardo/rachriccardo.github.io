@@ -22,7 +22,7 @@ var imageStyles = [
 		"background-position-y": "-75px"
 	},
 	{
-		"background-image":  "url(images/3.jpg)",
+		"background-image":  "url(images/3.JPG)",
 		"background-position-y": "-75px"
 	}
 ];
