@@ -1,0 +1,140 @@
+.sf_extra2 { background-image: url(images/bg_kgu7.jpg);
+ }
+body#pgBgImage_2155737 { page_background-image: url(images/141231_edratui1aqeotuzeacgcexk3rexcgd.medium.jpg);
+pg_bg_sizing: scale;
+pg_bg_alignment: midCenter;
+ }
+body#page_97cf44e7-df1e-4fe8-945d-7f3e7996a3ea div#content1 { width:94.99%; }
+body#page_97cf44e7-df1e-4fe8-945d-7f3e7996a3ea div#content1 { height:432px; }
+body#page_edc5220e-2a5d-4b4f-8496-f5b306c04b8f div#content3 { width:46.16%; }
+body#page_edc5220e-2a5d-4b4f-8496-f5b306c04b8f div#content2 { width:46.16%; }
+body#page_edc5220e-2a5d-4b4f-8496-f5b306c04b8f div#content1 { width:47.23%; }
+body#page_e44a2a53-521e-4944-9584-1f56cf921c2e div#content1 { width:94.99%; }
+body#page_e44a2a53-521e-4944-9584-1f56cf921c2e div#content1 { height:330px; }
+body#page_3df9266a-8dbb-424e-93dd-6268f707f419 div# { width:100%; }
+body#page_3df9266a-8dbb-424e-93dd-6268f707f419 div#content1 { width:94.99%; }
+body#page_110b486b-1354-40e2-9a47-f62211ab7386 div#content1 { width:94.99%; }
+body#page_957bf7e6-2996-4599-a6fb-e0f68b0cec87 div#content1 { width:94.99%; }
+body#page_edc5220e-2a5d-4b4f-8496-f5b306c04b8f div# { width:100%; }
+body#page_3df9266a-8dbb-424e-93dd-6268f707f419 div#undefined { width:100%; }
+body#page_3df9266a-8dbb-424e-93dd-6268f707f419 div#content1 { height:2677px; }
+body#page_110b486b-1354-40e2-9a47-f62211ab7386 div# { width:100%; }
+
+
+.sf_main_header	{
+	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+		margin: 10px auto 30px auto;
+
+}
+
+
+
+.carousel {
+	transition: .6s;
+	width: 100%;
+	height: 300px;	
+    background-size: cover;
+    position: relative;
+}
+
+
+.accordion-panel {
+	display: none;}
+
+.accordion-panel{
+	width: 400px;
+	margin: 10px auto 30px auto;
+
+	
+}
+
+.accordion-control {
+width: 400px;
+	margin: 13px auto 1px auto;
+	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+	padding: 1px 20px;
+	position: relative;
+	z-index: 20;
+	display: block;
+	height: 59px;
+	cursor: pointer;
+	color: #777;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+	line-height: 33px;
+	font-size: 25px;
+	background: linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	box-shadow: 
+		0px 0px 0px 1px rgba(155,155,155,0.3), 
+		1px 0px 0px 0px rgba(255,255,255,0.9) inset, 
+		0px 2px 2px rgba(0,0,0,0.1);
+
+}
+
+
+.carousel-indicators {
+	position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+}
+
+.carousel-indicators .indicator {
+	display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+.indicator.active {
+	width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: #fff;
+}
+
+/* Modal Header */
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}

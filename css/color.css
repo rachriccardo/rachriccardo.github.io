@@ -1,0 +1,44 @@
+/**
+ * @file
+ * @project 676
+ * @package sftheme
+ * @site app1
+ */
+
+a:link { color:#c80202; }
+a:visited { color:#c80202; }
+a:hover { color:#242424; }
+.sf_pagetitle { color:#c80202; }
+.sf_navigation ul li {
+	background-color: #b30202;
+	background-image:url(images/676_nav-bg_1.gif);
+	border-color:#b30202;
+}
+/** 
+ * -------------------------------
+ * @section DBNow
+ * -------------------------------
+ */
+
+.Data_Central_color7 {
+	background-color:#9d0101;
+	color:#fff;
+}
+.Data_Central_color1 {
+	background-color:#c80202;
+	color:#fff;
+}
+.Data_Central_color2 { background-color:#d5d9e0; }
+.Data_Central_color3 { background-color:#e4e7eb; }
+.Data_Central_color6 { background-color:#f1f3f6; }
+.Data_Central_color4 { background-color:#ffffff; }
+.Data_Central_color5 { border-color:#f1f3f6; }
+
+#contact-modal-open {
+	padding: 15px;
+    font-size: 1.4em;
+    font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background: #bf0000;
+    margin: 51px auto 30px auto;
+}
